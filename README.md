@@ -8,4 +8,4 @@
 - [] [Модуль 1: Роль Аналитики в Организации](https://github.com/itkatun/DE-101/tree/main/Module01)
 - [] [Модуль 2: Базы данных и SQL](https://github.com/itkatun/DE-101/tree/main/Module02)
 
-пишем на русском
+
