@@ -15,9 +15,14 @@
 
 ## 2.4: Модели Данных
 Концептуальная модель
-![Концептуальная модель](https://github.com/itkatun/DE-101/blob/main/Module02/concept_model.png)
 
+[![Концептуальная модель](https://github.com/itkatun/DE-101/blob/main/Module02/concept_model.png)]
 
 Логическая модель
+
 [![Логическая модель](https://github.com/itkatun/DE-101/blob/main/Module02/logical_model.png)]
+
+Физическая модель
+
+[![Физическая модель](https://github.com/itkatun/DE-101/blob/main/Module02/physical_model.png)]
 
