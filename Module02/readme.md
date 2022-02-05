@@ -26,3 +26,5 @@
 
 [![Физическая модель](https://github.com/itkatun/DE-101/blob/main/Module02/physical_model.png)]
 
+- [DDL](https://github.com/itkatun/DE-101/blob/main/Module02/DDL.sql)
+
