@@ -14,6 +14,6 @@
 - [Делаем SQL запросы](https://github.com/itkatun/DE-101/blob/main/Module02/query.sql)
 
 ## 2.4: Модели Данных
-[x]Концептуальная модель
+Концептуальная модель
 
 ![Концептуальная модель](https://github.com/itkatun/DE-101/blob/main/Module02/concept_model.png)
